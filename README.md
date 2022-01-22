@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/geekyamitesh/React-typescript-mini-project/blob/main/react-app.png">
 </p>
 
 # Getting Started
