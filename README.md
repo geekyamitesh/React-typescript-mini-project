@@ -1,46 +1,67 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <b>Node Module Search</B>
+</p>
 
-## Available Scripts
+<p align="center">
+  <img src="">
+</p>
 
-In the project directory, you can run:
+# Getting Started
+It is project for freshers who want to learn typescript reactjs and redux.
+`typescript`, `react`, `redux` are used.
 
-### `npm start`
+## How to use?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- First navigate to directory and open Terminal/CMD in that directory.
+- After opening terminal/cmd type `npm i` or `npm install`
+- Then Type `npm start`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Show some :heart: and :star: the repo to support the project. 
+For more, contact me @[facebook](https://www.facebook.com/geekyamitesh), @[Twitter](https://www.twitter.com/geekyamitesh) or @[Website](https://geekyamitesh.tech) 
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Pull Requests
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+I welcome and encourage all pull requests. It usually will take me within 10-21 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
 
-### `npm run eject`
+1.  Match coding style (braces, spacing, etc.) This is best achieved using `Reformat Code` feature of VS Code `SHIFT`+`Option`+`F` on Mac and `SHIFT` + `ALT` + `F` on Linux + Windows .
+2.  If its a feature, bugfix, or anything please only change code to what you specify.
+3.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
+4.  Pull requests _must_ be made against `develop` branch. Any other branch (unless specified by the maintainers) will get rejected.
+5.  Check for existing [issues](https://github.com/geekyamitesh/voiceAi-based-webapp/issues) first, before filing an issue.
+6.  Make sure you follow the set standard as all other projects in this repo do
+7.  Have fun!
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# 👍 Contribution
+1. Fork it
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Commit your changes (git commit -m 'Add some feature')
+4. Push to the branch (git push origin my-new-feature)
+5. Create new Pull Request
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Tested :clap:
 
-## Learn More
+This Project is Tested in Google Chrome Browser.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Facing Any Problem or need any Help:grey_question:
+Write me in [issues](https://github.com/geekyamitesh/voiceAi-based-webapp/issues) section. I will try solve your issue within 10-12 hours.
+</br>***Keep Developing and Destroying.*** :wink:
+
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+<a href= "https://github.com/geekyamitesh"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/geekyamitesh/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/geekyamitesh"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://geekyamitesh.github.io/amitesh/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
+
+</p>
